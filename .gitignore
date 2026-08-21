@@ -1,0 +1,9 @@
+node_modules
+.output
+.vercel
+.wrangler
+dist
+dist-ssr
+.env.local
+*.log
+.DS_Store
